@@ -5,7 +5,7 @@ Version: 1.0.0
 Description: Upload photos as WebP to save space and speed up downloads. Adds its own upload page - separate from Piwigo's native "Add Photos", which is left untouched.
 Author: Webgoodies
 Has Settings: true
-License: GPL3
+License: GPL2
 */
 
 defined('PHPWG_ROOT_PATH') or die('Hacking attempt!');
